@@ -4,7 +4,7 @@
 
 - Connected it with Oracle Database using [JDBC](https://docs.oracle.com/javase/7/docs/api/java/sql/package-summary.html).
 
-### Screenshot:
+### Screenshot 🖼️:
 
 ![image](https://user-images.githubusercontent.com/74784363/179343263-da5643a4-8ee2-4174-a202-65b5dbd6722f.png)
 
